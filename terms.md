@@ -1,13 +1,13 @@
 # Terms of Service
 
-**Effective Date:** [REPLACE WITH DATE YOU PUBLISH THIS]
-**Last Updated:** [REPLACE WITH DATE YOU PUBLISH THIS]
+**Effective Date:** [May 25, 2026]
+**Last Updated:** [May 25, 2026]
 
 Welcome to Velkrune. These Terms of Service ("Terms") govern your use of the Velkrune mobile application ("App"). By using the App, you agree to these Terms.
 
 If you do not agree to these Terms, do not use the App.
 
-Questions? Email **[REPLACE WITH YOUR SUPPORT EMAIL]**.
+Questions? Email **[velkrune@gmail.com]**.
 
 ---
 
@@ -124,10 +124,10 @@ Continued use of the App after a change constitutes acceptance of the updated Te
 
 ## 12. Governing Law
 
-These Terms are governed by the laws of [REPLACE WITH YOUR STATE/COUNTRY], without regard to its conflict-of-laws principles. Any dispute will be resolved in the courts located in [REPLACE WITH YOUR LOCATION], unless prohibited by applicable law.
+These Terms are governed by the laws of [Oklahoma, USA], without regard to its conflict-of-laws principles. Any dispute will be resolved in the courts located in [Oklahoma, USA], unless prohibited by applicable law.
 
 ---
 
 ## 13. Contact
 
-For any questions about these Terms, email **[REPLACE WITH YOUR SUPPORT EMAIL]**.
+For any questions about these Terms, email **[velkrune@gmail.com]**.
