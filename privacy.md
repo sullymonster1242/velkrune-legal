@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**Effective Date:** [May 25, 2026]
-**Last Updated:** [May 25, 2026]
+**Effective Date:** May 25, 2026
+**Last Updated:** May 25, 2026
 
 This Privacy Policy describes how Velkrune ("we", "us", "our") collects, uses, and shares information when you use the Velkrune mobile application (the "App"). By using the App, you agree to the practices described here.
 
-If you have questions, contact us at: **[velkrune@gmail.com]**
+If you have questions, contact us at: **velkrune@gmail.com**
 
 ---
 
@@ -106,4 +106,4 @@ If we change this Privacy Policy, we will update the "Last Updated" date above a
 
 ## 9. Contact
 
-Questions? Email **[velkrune@gmail.com]**.
+Questions? Email **velkrune@gmail.com**.
